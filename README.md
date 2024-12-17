@@ -9,5 +9,5 @@ to leftmost index. Each trampoline _i_ has a weight _B[i]_.
 - Second line are the weights of each trampoline
 ## Quick Start
 In CLI:
-- javac Project4.java
-- java Project4
+1. javac Project4.java
+2. java Project4
